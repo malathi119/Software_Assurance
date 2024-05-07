@@ -1,0 +1,402 @@
+{
+    "ST001": {
+        "name": "Student 1",
+        "class": "Class 2"
+    },
+    "ST002": {
+        "name": "Student 2",
+        "class": "Class 3"
+    },
+    "ST003": {
+        "name": "Student 3",
+        "class": "Class 4"
+    },
+    "ST004": {
+        "name": "Student 4",
+        "class": "Class 5"
+    },
+    "ST005": {
+        "name": "Student 5",
+        "class": "Class 6"
+    },
+    "ST006": {
+        "name": "Student 6",
+        "class": "Class 7"
+    },
+    "ST007": {
+        "name": "Student 7",
+        "class": "Class 8"
+    },
+    "ST008": {
+        "name": "Student 8",
+        "class": "Class 9"
+    },
+    "ST009": {
+        "name": "Student 9",
+        "class": "Class 10"
+    },
+    "ST010": {
+        "name": "Student 10",
+        "class": "Class 1"
+    },
+    "ST011": {
+        "name": "Student 11",
+        "class": "Class 2"
+    },
+    "ST012": {
+        "name": "Student 12",
+        "class": "Class 3"
+    },
+    "ST013": {
+        "name": "Student 13",
+        "class": "Class 4"
+    },
+    "ST014": {
+        "name": "Student 14",
+        "class": "Class 5"
+    },
+    "ST015": {
+        "name": "Student 15",
+        "class": "Class 6"
+    },
+    "ST016": {
+        "name": "Student 16",
+        "class": "Class 7"
+    },
+    "ST017": {
+        "name": "Student 17",
+        "class": "Class 8"
+    },
+    "ST018": {
+        "name": "Student 18",
+        "class": "Class 9"
+    },
+    "ST019": {
+        "name": "Student 19",
+        "class": "Class 10"
+    },
+    "ST020": {
+        "name": "Student 20",
+        "class": "Class 1"
+    },
+    "ST021": {
+        "name": "Student 21",
+        "class": "Class 2"
+    },
+    "ST022": {
+        "name": "Student 22",
+        "class": "Class 3"
+    },
+    "ST023": {
+        "name": "Student 23",
+        "class": "Class 4"
+    },
+    "ST024": {
+        "name": "Student 24",
+        "class": "Class 5"
+    },
+    "ST025": {
+        "name": "Student 25",
+        "class": "Class 6"
+    },
+    "ST026": {
+        "name": "Student 26",
+        "class": "Class 7"
+    },
+    "ST027": {
+        "name": "Student 27",
+        "class": "Class 8"
+    },
+    "ST028": {
+        "name": "Student 28",
+        "class": "Class 9"
+    },
+    "ST029": {
+        "name": "Student 29",
+        "class": "Class 10"
+    },
+    "ST030": {
+        "name": "Student 30",
+        "class": "Class 1"
+    },
+    "ST031": {
+        "name": "Student 31",
+        "class": "Class 2"
+    },
+    "ST032": {
+        "name": "Student 32",
+        "class": "Class 3"
+    },
+    "ST033": {
+        "name": "Student 33",
+        "class": "Class 4"
+    },
+    "ST034": {
+        "name": "Student 34",
+        "class": "Class 5"
+    },
+    "ST035": {
+        "name": "Student 35",
+        "class": "Class 6"
+    },
+    "ST036": {
+        "name": "Student 36",
+        "class": "Class 7"
+    },
+    "ST037": {
+        "name": "Student 37",
+        "class": "Class 8"
+    },
+    "ST038": {
+        "name": "Student 38",
+        "class": "Class 9"
+    },
+    "ST039": {
+        "name": "Student 39",
+        "class": "Class 10"
+    },
+    "ST040": {
+        "name": "Student 40",
+        "class": "Class 1"
+    },
+    "ST041": {
+        "name": "Student 41",
+        "class": "Class 2"
+    },
+    "ST042": {
+        "name": "Student 42",
+        "class": "Class 3"
+    },
+    "ST043": {
+        "name": "Student 43",
+        "class": "Class 4"
+    },
+    "ST044": {
+        "name": "Student 44",
+        "class": "Class 5"
+    },
+    "ST045": {
+        "name": "Student 45",
+        "class": "Class 6"
+    },
+    "ST046": {
+        "name": "Student 46",
+        "class": "Class 7"
+    },
+    "ST047": {
+        "name": "Student 47",
+        "class": "Class 8"
+    },
+    "ST048": {
+        "name": "Student 48",
+        "class": "Class 9"
+    },
+    "ST049": {
+        "name": "Student 49",
+        "class": "Class 10"
+    },
+    "ST050": {
+        "name": "Student 50",
+        "class": "Class 1"
+    },
+    "ST051": {
+        "name": "Student 51",
+        "class": "Class 2"
+    },
+    "ST052": {
+        "name": "Student 52",
+        "class": "Class 3"
+    },
+    "ST053": {
+        "name": "Student 53",
+        "class": "Class 4"
+    },
+    "ST054": {
+        "name": "Student 54",
+        "class": "Class 5"
+    },
+    "ST055": {
+        "name": "Student 55",
+        "class": "Class 6"
+    },
+    "ST056": {
+        "name": "Student 56",
+        "class": "Class 7"
+    },
+    "ST057": {
+        "name": "Student 57",
+        "class": "Class 8"
+    },
+    "ST058": {
+        "name": "Student 58",
+        "class": "Class 9"
+    },
+    "ST059": {
+        "name": "Student 59",
+        "class": "Class 10"
+    },
+    "ST060": {
+        "name": "Student 60",
+        "class": "Class 1"
+    },
+    "ST061": {
+        "name": "Student 61",
+        "class": "Class 2"
+    },
+    "ST062": {
+        "name": "Student 62",
+        "class": "Class 3"
+    },
+    "ST063": {
+        "name": "Student 63",
+        "class": "Class 4"
+    },
+    "ST064": {
+        "name": "Student 64",
+        "class": "Class 5"
+    },
+    "ST065": {
+        "name": "Student 65",
+        "class": "Class 6"
+    },
+    "ST066": {
+        "name": "Student 66",
+        "class": "Class 7"
+    },
+    "ST067": {
+        "name": "Student 67",
+        "class": "Class 8"
+    },
+    "ST068": {
+        "name": "Student 68",
+        "class": "Class 9"
+    },
+    "ST069": {
+        "name": "Student 69",
+        "class": "Class 10"
+    },
+    "ST070": {
+        "name": "Student 70",
+        "class": "Class 1"
+    },
+    "ST071": {
+        "name": "Student 71",
+        "class": "Class 2"
+    },
+    "ST072": {
+        "name": "Student 72",
+        "class": "Class 3"
+    },
+    "ST073": {
+        "name": "Student 73",
+        "class": "Class 4"
+    },
+    "ST074": {
+        "name": "Student 74",
+        "class": "Class 5"
+    },
+    "ST075": {
+        "name": "Student 75",
+        "class": "Class 6"
+    },
+    "ST076": {
+        "name": "Student 76",
+        "class": "Class 7"
+    },
+    "ST077": {
+        "name": "Student 77",
+        "class": "Class 8"
+    },
+    "ST078": {
+        "name": "Student 78",
+        "class": "Class 9"
+    },
+    "ST079": {
+        "name": "Student 79",
+        "class": "Class 10"
+    },
+    "ST080": {
+        "name": "Student 80",
+        "class": "Class 1"
+    },
+    "ST081": {
+        "name": "Student 81",
+        "class": "Class 2"
+    },
+    "ST082": {
+        "name": "Student 82",
+        "class": "Class 3"
+    },
+    "ST083": {
+        "name": "Student 83",
+        "class": "Class 4"
+    },
+    "ST084": {
+        "name": "Student 84",
+        "class": "Class 5"
+    },
+    "ST085": {
+        "name": "Student 85",
+        "class": "Class 6"
+    },
+    "ST086": {
+        "name": "Student 86",
+        "class": "Class 7"
+    },
+    "ST087": {
+        "name": "Student 87",
+        "class": "Class 8"
+    },
+    "ST088": {
+        "name": "Student 88",
+        "class": "Class 9"
+    },
+    "ST089": {
+        "name": "Student 89",
+        "class": "Class 10"
+    },
+    "ST090": {
+        "name": "Student 90",
+        "class": "Class 1"
+    },
+    "ST091": {
+        "name": "Student 91",
+        "class": "Class 2"
+    },
+    "ST092": {
+        "name": "Student 92",
+        "class": "Class 3"
+    },
+    "ST093": {
+        "name": "Student 93",
+        "class": "Class 4"
+    },
+    "ST094": {
+        "name": "Student 94",
+        "class": "Class 5"
+    },
+    "ST095": {
+        "name": "Student 95",
+        "class": "Class 6"
+    },
+    "ST096": {
+        "name": "Student 96",
+        "class": "Class 7"
+    },
+    "ST097": {
+        "name": "Student 97",
+        "class": "Class 8"
+    },
+    "ST098": {
+        "name": "Student 98",
+        "class": "Class 9"
+    },
+    "ST099": {
+        "name": "Student 99",
+        "class": "Class 10"
+    },
+    "ST100": {
+        "name": "Student 100",
+        "class": "Class 1"
+    }
+}
